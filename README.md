@@ -1,2 +1,0 @@
-# edtech-index
-edtech homepage
